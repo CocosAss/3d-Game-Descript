@@ -1,0 +1,1 @@
+F:\MongoDB\bin\mongod.exe -dbpath C:\Users\700\WebstormProjects\NodeJs\blog\data
